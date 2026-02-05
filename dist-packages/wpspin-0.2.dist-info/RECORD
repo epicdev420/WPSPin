@@ -1,0 +1,13 @@
+../../../bin/wpspin,sha256=MdKDBAER290gkDMhQb67U5jqsLvx_fEgMrVh_ceIWaE,212
+wpspin-0.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+wpspin-0.2.dist-info/LICENSE,sha256=aaQ634QoP4T1WLmxcKtHEXQbTJvIaqgL6942e6Gbc-o,1074
+wpspin-0.2.dist-info/METADATA,sha256=5J5jjqBj6cuRlHtTRrMKvowOvEBgtfy3v_Ohw1U3QGw,7064
+wpspin-0.2.dist-info/RECORD,,
+wpspin-0.2.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+wpspin-0.2.dist-info/WHEEL,sha256=G16H4A3IeoQmnOrYV4ueZGKSjhipXx8zc8nu9FGlvMA,92
+wpspin-0.2.dist-info/entry_points.txt,sha256=WZd6kBhhYQoCHMEXwq6c708ZJTNPhCGmmLPh8a2f8Nk,47
+wpspin-0.2.dist-info/top_level.txt,sha256=xry0su4U6RNIjW-r2GHDZHm2cgFHSRDBpX6H2LEW6Ek,7
+wpspin/__init__.py,sha256=oPK5xxfjXnpmGL083BL8AObg6q_SZwYPpmS0yDKdCnM,167
+wpspin/__pycache__/__init__.cpython-310.pyc,,
+wpspin/__pycache__/wpspin.cpython-310.pyc,,
+wpspin/wpspin.py,sha256=cn-Mj6LcbXL2L6kQf2c2jxKRGuniPv9MdcklqXsD3HE,18491
